@@ -1,0 +1,11 @@
+{
+  "org": "uqfoundation",
+  "repo": "dill",
+  "versions": [
+    {
+      "commit": "72c61c8f9e86f033f697ac9cecb87566a83ef579",
+      "tag": "",
+      "parsed_at": "2026-10-17T22:26:17.394725+00:00"
+    }
+  ]
+}
