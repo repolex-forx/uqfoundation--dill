@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/uqfoundation/dill/commit/72c61c8f9e86f033f697ac9cecb87566a83ef579",
       "git:hexsha": "72c61c8f9e86f033f697ac9cecb87566a83ef579",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T22:26:17.393631+00:00"
     },
     {
       "@id": "https://repolex.ai/r/uqfoundation/dill/commit/0a261e65ab1501564aa9611d2575504e23d1d937",
